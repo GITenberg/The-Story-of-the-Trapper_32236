@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Heming, Arthur
     alias: Heming, Arthur Henry Howard
-    birthdate: &id001 1871
+    birthdate: 1871
     deathdate: 1940
     gutenberg_agent_id: '8067'
     url: http://www.gutenberg.org/2009/agents/8067
@@ -17,11 +17,13 @@ creator:
     aliases:
     - Laut, Agnes Christina
     - Laut, Agnes C. (Agnes Christina)
-    birthdate: *id001
+    birthdate: 1871
     deathdate: 1936
     gutenberg_agent_id: '7761'
     url: http://www.gutenberg.org/2009/agents/7761
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32236#The-Story-of-the-Trapper
 gutenberg_issued: '2010-05-03'
 gutenberg_type: Text
 identifiers:
